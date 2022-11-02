@@ -1,0 +1,329 @@
+/* Boostrap lg */
+@media only screen and (min-width: 992px) {
+    .logo {
+        padding-top: 20px;
+    }
+
+    .section {
+        padding: 70px 0;
+    }
+
+    div#services {
+        padding-bottom: 100px;
+        margin-bottom: 0;
+    }
+
+    .cards-section {
+        padding-top: 40px;
+        padding-left: 90px;
+        padding-right: 72px;
+    }
+
+}
+
+@media (max-width: 991.98px){
+    .cards-section {
+        padding-top: 40px;
+        padding-right: 19px;
+        padding-left: 0px;
+    }
+
+    .card-title {
+        font-size: 20px;
+        width: 90%;
+    }
+
+    
+}
+
+
+/* Until Boostrap lg */
+@media only screen and (max-width: 992px) {
+    .row.header-top {
+        padding: 20px 0 20px 0;
+    }
+
+    .section {
+        padding: 50px 0;
+    }
+
+    div#services {
+        padding: 20px;
+        padding-bottom: 50px;
+    }
+
+    .header {
+        text-align: center;
+    }
+
+    .wc-content {
+        padding-top: 30px;
+    }
+
+    .wc-img-section {
+        height: 300px;
+    }
+}
+
+@media only screen and (min-width: 576px) {
+    .dy-img {
+        min-width: 250px;
+    }
+    #service_area .icon i {
+        font-size: 56px;
+    }
+}
+
+/* mobile sizes */
+@media only screen and (max-width: 576px) {
+    .year {
+        display: none;
+    }
+
+    span.header-top-right {
+        float: none;
+    }
+
+    .about-header {
+        margin-bottom: 30px;
+    }
+
+    .content-section {
+        background-position: center;
+        padding: 30px;
+        background-size: cover;
+    }
+
+    .content-section-caption {
+        background-color: #fff;
+        width: 100%;
+        padding: 20px;
+
+    }
+
+    .headerBold {
+        margin-bottom: 30px;
+    }
+
+    .wc-content {
+        padding-top: 20px;
+    }
+
+    .wc-img-section {
+        height: 250px;
+    }
+
+    .d-sec table td {
+        display: inline;
+        text-align: center;
+    }
+
+    .footer-menu table {
+        display: none;
+    }
+
+    div#diary {
+        padding-bottom: 0 !important;
+    }
+
+    .footer-menu.pt-4 {
+        padding-top: 0 !important;
+    }
+
+    .card-btn .btn-primary {
+        padding: 10px 20px;
+    }
+
+    .cards-section .col-xl-3 {
+        width: 100%;
+        padding-right: 20px;
+        margin-right: 4px;
+    }
+
+    .sub-heading {
+        font-size: 16px;
+        margin-bottom: 12px;
+    }
+
+    .cards-section {
+        padding-top: 40px;
+        margin-right: -13px;
+        padding-left: 0px;
+    }
+
+    #service_area .content {
+        padding-left: 24px;
+        margin-right: 10px;
+        padding-top: -17px;
+        width: 91.5%;
+    }
+
+    #service_area .icon {
+        padding-top: 4px;
+    }
+
+    #service_area .icon i {
+        font-size: 56px;
+        color: #0d6efd;
+    }
+
+    #service_area .content h2 {
+        font-size: 23px;
+        font-weight: 700;
+        margin-top: 6px;
+    }
+
+    #service_area .row {
+        padding-left: 11px;
+        margin-left: -12px;
+        margin-right: -15px;
+    }
+
+
+}
+
+    /* upto boostrap md */
+    @media only screen and (max-width: 768px) {
+        .footer-menu table a {
+            font-size: 12px;
+        }
+
+        .mob-break {
+            display: inline;
+        }
+
+        .msg-table td {
+            display: block;
+            text-align: center;
+        }
+
+        .msg-table .tr-2 {
+            display: flex;
+            flex-flow: column;
+        }
+
+        .msg-table .tr-2 .img-td {
+            order: 2;
+        }
+
+        .msg-table .tr-1 .img-td {
+            padding-bottom: 50px;
+        }
+
+        
+        .col-md-4 {
+            flex: 0 0 auto;
+            width: 49.333333%;
+        }
+
+        .cards-section {
+            padding-right: 0px;
+            margin-left: -5px;
+        }
+
+        div#services {
+            padding: 13px;
+            padding-bottom: 50px;
+        }
+
+        .content-section-caption p{
+            width: 111%;
+        }
+
+        #services .header {
+            margin-top: 20px;
+        } 
+
+        .cards-section .row {
+            margin-right: calc(var(--bs-gutter-x) * -0.5);
+        }
+
+        #service_area .row {
+            padding-left: 22px;
+        }
+
+        #service_area .icon i {
+            font-size: 58px;
+        }
+
+        #service_area .content {
+            padding-left: 46px;
+        }
+
+        .header-content {
+            text-align: center;
+            margin-top: 25px;
+        }
+    }
+
+    /* until boostrap md */
+    @media only screen and (min-width: 768px) {
+        .msg-table .tr-1 .img-td {
+            text-align: end;
+            padding-left: 40px;
+        }
+
+        .msg-table .tr-2 .img-td {
+            text-align: start;
+            padding-right: 40px;
+        }
+
+        .cards-section .col-xl-3 {
+            flex: 0 0 auto;
+            width: 32.5%;
+            /* padding-right: 10px; */
+            margin-right: 4px;
+        }
+
+        .card-title {
+            font-size: 17px;
+            width: 80%;
+            margin: 0 auto;
+            padding-top: 15px;
+        }
+
+        .card-desc {
+            font-size: 14px;
+            width: 100%;
+            margin-top: -7px;
+        }
+
+        .card-btn .btn-primary {
+            padding: 11px 16px;
+            font-size: 13px;
+            width: 143px;
+        }
+
+        .header-content {
+            text-align: center;
+            margin-top: 25px;
+        }
+
+    }
+
+    @media (min-width: 768px) and (max-width: 1024px) {
+        .cards-section {
+            margin-right: -14px;
+        }
+
+        #service_area .icon i {
+            font-size: 58px;
+            color: #0d6efd;
+        }
+
+        #service_area .row {
+            padding-left: 22px;
+        }
+
+        #service_area .content {
+            padding-left: 44px;
+        }
+
+        .header-content {
+            text-align: center;
+            margin-top: 25px;
+        }
+
+    }
+
+   
