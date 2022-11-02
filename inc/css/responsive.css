@@ -213,8 +213,18 @@
     }
 
     .design-categories  .col-lg-6.col-md-6.col-sm-12 {
-        padding-right: 0;
+        padding:0;
     }
+
+    .design-categories {
+        overflow-x: hidden;
+      
+    }
+
+    .body-content {
+       padding: 0;
+    }
+
 
 
 }
