@@ -47,6 +47,10 @@
         padding: 50px 0;
     }
 
+    
+
+   
+
     div#services {
         padding: 20px;
         padding-bottom: 50px;
@@ -177,6 +181,39 @@
         padding-left: 11px;
         margin-left: -12px;
         margin-right: -15px;
+    }
+
+   .service-design .row {
+        --bs-gutter-x: 1.5rem;
+        --bs-gutter-y: 0;
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: calc(var(--bs-gutter-y) * -1);
+        margin-right: calc(var(--bs-gutter-x) * -.5);
+        margin-left: calc(var(--bs-gutter-x) * -.5);
+        margin-left: -40px;
+    }
+
+    .design-categories {
+        margin-top: -45px;
+    }
+
+    .design-categories  .heading-body1 .image1 img {
+        max-width: 100%;
+        height: auto;
+        float: left;
+        margin-left: -32px;
+    }
+
+    .design-categories  .heading-body .image img {
+        max-width: 100%;
+        height: auto;
+        float: left;
+        margin-left: -32px;
+    }
+
+    .design-categories  .col-lg-6.col-md-6.col-sm-12 {
+        padding-right: 0;
     }
 
 
