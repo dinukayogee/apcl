@@ -225,10 +225,9 @@
        padding: 0;
     }
 
-    .design-text-content .mobmargin {
-        margin-top: -80px;
+    .row.mobspace {
+        margin-top: -95px;
     }
-
 
 }
 
