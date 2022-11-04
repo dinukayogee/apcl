@@ -1032,10 +1032,13 @@ p.make.fontadding {
 
 #ourteam .team-header{
     color:#42C8C4  ;
+    text-shadow: 3px 3px rgb(205, 225, 249);
+    
 }
 
 #ourteam .team-name{
     color:#131372 ;
+    
 }
 
 #ourteam .team-position{
