@@ -1025,6 +1025,11 @@ p.make.fontadding {
 
 }
 
+#ourteam{
+    font-family: 'Questrial', sans-serif;
+    
+}
+
 #ourteam .team-header{
     color:#42C8C4  ;
 }
