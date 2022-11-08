@@ -235,8 +235,28 @@
 
     img.news-img {
         margin-left: -10px;
+        margin-top: 30px;
     }
 
+    /* ----------------------------------------blogs---------------------------------------- */
+    .news-blog-details {
+        padding-left: 0;
+    }
+
+    .row.Trends-header {
+        margin-top: 20px;
+    }
+
+    img.blog-img {
+        margin-left: -10px;
+        margin-top: -38px;
+        width: 100%;
+    }
+    img.news1-img {
+        margin-left: -35px;
+        margin-top: -38px;
+    }
+  
    
 
 }

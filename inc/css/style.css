@@ -1093,6 +1093,7 @@ p.make.fontadding {
     letter-spacing: 0.1rem;
     font-size: 14px;
     color: #444444;
+    
 
 }
 
@@ -1107,6 +1108,7 @@ p.make.fontadding {
     color: #777777;
     text-decoration: none;
     font-size: 15px;
+    display: block;
 
 }
 
@@ -1250,5 +1252,35 @@ ul.non-bullets {
     font-size: 0.5rem;
 }
 
+.main-para {
+    padding-left: 0;
+}
+
+.mv-proPeriod{
+    padding-left: 0;
+}
+
+img.news-img {
+    width: 100%;
+}
+
+.revers-row {
+    display: flex;
+    flex-direction: column-reverse;
+}
+img.blog-img {
+    width: 90%;
+}
+
+
+.latest-news .latest-news-col .catogories-sidebar {
+    border-right: 1px solid #e1e0e0;
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+
+.col-lg-9.col-md-12.col-sm-12.news-details-bar {
+    padding-left: 1rem;
+}
 
 
