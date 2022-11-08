@@ -1083,6 +1083,7 @@ p.make.fontadding {
 .latest-news .catogories-sidebar .aboutUs-para {
     color: #777777;
     line-height: 2rem;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .row.aboutUs-header {
@@ -1172,6 +1173,7 @@ p.make.fontadding {
     padding-left: 0;
     color: #444444;
     font-size: 1.4rem;
+
 }
 
 .Trends-section .Trends-para {
@@ -1288,4 +1290,12 @@ img.blog-img {
     padding-left: 1rem;
 }
 
+.news-blog-details{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.Trends-section{
+    font-family: 'Open Sans', sans-serif;
+}
 
