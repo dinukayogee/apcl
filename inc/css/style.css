@@ -234,6 +234,7 @@ div#our-clients {
     padding: 30px;
     transition: all 0.5s;
 }
+
 .oc-slider .item:hover {
     padding: 20px;
 }
@@ -247,9 +248,11 @@ div#our-clients {
     padding: 10px;
     transition: all 0.5s;
 }
+
 .dp-slider .item:hover {
     padding: 10px 20px;
 }
+
 .dp-slider .item .p-name {
     font-size: 20px;
 }
@@ -526,7 +529,8 @@ div#vmore {
     margin-top: -5px;
     border: solid 1px #3e448b;
 }
-.effect-button:hover{
+
+.effect-button:hover {
     background: #0d6efd;
     color: #000;
 }
@@ -536,8 +540,8 @@ div#vmore {
     transition: transform .7s;
 }
 
-.icon:hover{
-    transform: scale(1.2);  
+.icon:hover {
+    transform: scale(1.2);
 }
 
 #service_area .icon i:hover {
@@ -559,7 +563,7 @@ div#vmore {
 }
 
 
-#service_area .content p{
+#service_area .content p {
     font-size: 17px;
     color: #7c7171;
     font-weight: 500;
@@ -667,7 +671,7 @@ i {
     width: 6.666667%;
 }
 
-.list p{
+.list p {
     font-size: 16px;
     color: #07075e;
 }
@@ -734,11 +738,11 @@ p.sub-list-content {
     color: #bb0e0e;
 }
 
-.list h3{
+.list h3 {
     font-size: 25px;
     text-decoration: underline;
     padding-bottom: 10px;
-    color: #bb0e0e; 
+    color: #bb0e0e;
 }
 
 
@@ -794,7 +798,7 @@ button[aria-expanded]:focus svg {
     width: 100%;
     justify-content: space-between;
     font-weight: 900;
- 
+
 }
 
 #btnDisc02 {
@@ -807,7 +811,7 @@ button[aria-expanded]:focus svg {
     width: 100%;
     justify-content: space-between;
     font-weight: 900;
- 
+
 }
 
 #btnDisc03 {
@@ -820,7 +824,7 @@ button[aria-expanded]:focus svg {
     width: 100%;
     justify-content: space-between;
     font-weight: 900;
- 
+
 }
 
 #btnDisc04 {
@@ -833,7 +837,7 @@ button[aria-expanded]:focus svg {
     width: 100%;
     justify-content: space-between;
     font-weight: 900;
- 
+
 }
 
 
@@ -847,7 +851,7 @@ button[aria-expanded]:focus svg {
 
 
 p.my-5.workdis.motor-contact {
-    line-height:20px ;
+    line-height: 20px;
 }
 
 button[aria-expanded="true"] svg {
@@ -864,47 +868,48 @@ button[aria-expanded="true"] svg {
 /* --------------------------------------discluser end----------------------------------------------- */
 
 /* ---------------------------------------service page modal start----------------------------------- */
-.service-categories .service  .modal-title{ 
+.service-categories .service .modal-title {
     font-weight: 600;
     color: #131372;
 
-   
+
 }
 
-.list-circle{
-    color:#42C8C4 ;    
+.list-circle {
+    color: #42C8C4;
 }
+
 /* ------------------------------------------service page modal end------------------------------------- */
 
 
 
 
 /* -----------------------------------------------product.html---------------------------------------- */
-.body-content{
+.body-content {
     padding: 30px;
 }
 
-.product-img{
+.product-img {
     margin-top: 100px;
 }
 
-#product{
+#product {
     padding-left: 100;
 }
 
-.finalbrand{
+.finalbrand {
     height: 60px;
     width: 90px;
 }
 
-.card{
+.card {
     border-radius: 0;
     border-top: 0;
     border-bottom: 0;
     border-left: 0;
     height: 25rem;
-    
-    
+
+
 }
 
 p.make.fontadding {
@@ -912,31 +917,31 @@ p.make.fontadding {
     margin-bottom: 2px;
 }
 
-.card-body{
+.card-body {
     justify-content: center;
     align-items: center;
     padding-left: 20px;
     padding-right: 20px;
 }
 
-.bigimg{
-    
-        justify-content: center;
-        align-items: center;
- 
-        padding-right: 20px;
-        padding-top: 50px;
-        padding-bottom: 50px;
-    
+.bigimg {
+
+    justify-content: center;
+    align-items: center;
+
+    padding-right: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
 }
 
-.fontadding{
+.fontadding {
     font-family: 'Questrial', sans-serif;
     font-size: 13px;
- 
+
 }
 
-.card-start .h6{
+.card-start .h6 {
     font-size: 13PX;
     color: #000000;
     font-family: 'Raleway', sans-serif;
@@ -946,7 +951,7 @@ p.make.fontadding {
 
 
 
-.make{
+.make {
     color: #456aa2;
     font-size: 14px;
 }
@@ -955,12 +960,12 @@ p.make.fontadding {
     width: 150px;
 }
 
-.multimeter{
-    height:250px;
+.multimeter {
+    height: 250px;
 
 }
 
-.withoutborder{
+.withoutborder {
     border-right: 0;
 }
 
@@ -971,86 +976,244 @@ p.make.fontadding {
 }
 
 .section-header .h4 {
-     font-size: 16px;
+    font-size: 16px;
     color: #BFBFBF;
     font-family: 'Questrial', sans-serif;
 }
 
-.logo-section{
+.logo-section {
     margin-left: 50px;
 }
 
-.modelfont{
+.modelfont {
     color: #888888;
     font-family: 'Questrial', sans-serif;
     font-size: 16px;
 }
+
 /* 
 
 ---------------------------------------Design-Projects--------------------------------- */
 
 
-.design-categories .service-design h3{
+.design-categories .service-design h3 {
     font-size: 26px;
 }
 
-.design-categories .service-design .modal-title{ 
+.design-categories .service-design .modal-title {
     font-weight: 600;
-    color:#131372 ;
+    color: #131372;
 }
 
-.design-text-content .design-para{
+.design-text-content .design-para {
     font-size: 18px;
     font-family: 'Questrial', sans-serif;
 }
 
-.modal-content .modal-body .row .col-9 p{
+.modal-content .modal-body .row .col-9 p {
     font-size: 16px;
     font-family: 'Questrial', sans-serif;
     color: #888888;
 
 }
 
-.revers-row{
+.revers-row {
     display: flex;
     flex-direction: column-reverse;
 }
 
 
 
-/* -------------------------------------------------------------team.html-------------------------------------------- */
-
-.team-img{
+/* -------------------------------------------------------------team.html---------------------------------*/
+.team-img {
     border-radius: 50%;
 
 }
 
-#ourteam{
+#ourteam {
     font-family: 'Questrial', sans-serif;
-    
+
 }
 
-#ourteam .team-header{
-    color:#42C8C4  ;
+#ourteam .team-header {
+    color: #42C8C4;
     text-shadow: 2px 2px rgb(205, 225, 249);
-    
+
 }
 
-#ourteam .team-name{
-    color:#131372 ;
-    
+#ourteam .team-name {
+    color: #131372;
+
 }
 
-#ourteam .team-position{
-    color:#888888 ;
+#ourteam .team-position {
+    color: #888888;
 }
 
-#ourteam .team-qulification{
+#ourteam .team-qulification {
     font-size: 14px;
 }
 
 
-      
+
+/* -------------------------------------------------------news.html----------------------------------*/
+
+#NewsPage {
+    font-family: 'Questrial', sans-serif;
+}
+
+.latest-news .latest-news-col .catogories-sidebar {
+    border-right: 1px solid #e1e0e0;
+    padding-right: 2rem;
+}
+
+.latest-news .catogories-sidebar .about {
+    letter-spacing: 0.1rem;
+    font-size: 14px;
+    color: #444444;
+}
+
+.h6.text-capitalize.fw-bolder.about {
+    padding-left: 0;
+}
+
+.latest-news .catogories-sidebar .aboutUs-para {
+    color: #777777;
+    line-height: 2rem;
+}
+
+.row.aboutUs-header {
+    color: #444444;
+}
+
+.catogories-sidebar .h6 .text-capitalize .fw-bolder .about {
+    letter-spacing: 0.1rem;
+    font-size: 14px;
+    color: #444444;
+
+}
+
+.removebullets {
+    list-style-type: none;
+    text-decoration: none;
+    padding-left: 0;
+
+}
+
+.removebullets li a {
+    color: #777777;
+    text-decoration: none;
+    font-size: 15px;
+
+}
+
+.removebullets li a:hover {
+    color: #9dc6ee;
+    text-decoration: none;
+    font-size: 15px;
+
+}
+
+.removebullets li {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px 0;
+    border-bottom: 0.5px solid #e9e7e7;
+}
+
+.removebullets li {
+    position: relative;
+}
+
+.removebullets li svg {
+
+    float: right;
+}
+.removebullets li svg :hover{
+
+    color: #9dc6ee;
+}
+
+
+
+
+.latest-products-section .products-list-header .products {
+    letter-spacing: 0.1rem;
+    font-size: 14px;
+    color: #444444;
+    padding-left: 0;
+}
+
+.product-img-row .product-img-col {
+    padding-left: 0;
+
+}
+
+.product-img-row .product-img-col img {
+    width: 80px;
+    height: 80px;
+
+}
+
+.product-img-row .col-4 {
+    width: 25%;
+}
+
+.news-details-para{
+    padding-left: 0;
+}
+
+.Trends-section .Trends-header p{
+    padding-left: 0;
+    color: #444444;
+    font-size: 1.4rem;
+}
+
+.Trends-section .Trends-para {
+    padding-left: 0;
+    color: #777777;
+    font-size: 1rem;
+    line-height: 2rem;
+    
+}
+
+.Trends-section .Trends-para a{
+    text-decoration: none;
+}
+
+.Trends-section .Trends-para  span{
+    padding-left: 0;
+}
+.news-img{
+    padding-right: 20px;
+}
+
+.no-bullets{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: -10px;
+}
+
+
+.no-bullets li{
+    display: inline;
+    padding-left: 0;
+    color: #999999;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    font-weight: bold;
+    padding-right: 0.5rem;
+    
+}
+
+.Trends-section{
+    padding-bottom: 50px;
+    
+}
+.separate-rule{
+    color:#b3b0b0 ;
+}
 
 
 

@@ -19,6 +19,10 @@
         padding-right: 72px;
     }
 
+    
+
+
+
 }
 
 @media (max-width: 991.98px){
@@ -63,6 +67,8 @@
     .wc-img-section {
         height: 300px;
     }
+
+    
 }
 
 @media only screen and (min-width: 576px) {
@@ -224,6 +230,14 @@
     .row.mobspace {
         margin-top: -95px;
     }
+/* 
+    ------------------------------------news.html--------------------------------------- */
+
+    img.news-img {
+        margin-left: -10px;
+    }
+
+   
 
 }
 
