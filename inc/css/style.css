@@ -1268,6 +1268,11 @@ img.news-img {
     display: flex;
     flex-direction: column-reverse;
 }
+
+img.blog-img {
+    width: 90%;
+}
+
 img.blog-img {
     width: 90%;
 }
