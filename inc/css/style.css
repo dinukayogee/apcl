@@ -1219,4 +1219,36 @@ p.make.fontadding {
 }
 
 
+/* --------------------------------------------News-blog.html--------------------------------------- */
+
+.news-blog-details{
+padding-left: 3.5rem;
+}
+
+.non-bullets{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   text-align: left;
+  
+}
+.non-bullets li{
+    display: inline;
+    padding-left: 0;
+    color: #999999;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    font-weight: bold;
+   
+    
+}
+ul.non-bullets {
+    margin-left: -0.8rem;
+}
+
+.Trends-para{
+    font-size: 0.5rem;
+}
+
+
 
