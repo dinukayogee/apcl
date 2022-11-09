@@ -266,7 +266,17 @@
     .row.Trends-header.mt-4.fw-bold {
         padding-left: 0rem;
     }
-  
+
+    .latest-news .latest-news-col .catogories-sidebar {
+        
+        border: none;
+    }
+
+    .product-img-row .col-4 {
+        width: 19%;
+    }
+    
+   
    
 
 }
@@ -343,6 +353,11 @@
             text-align: center;
             margin-top: 25px;
         }
+
+        .product-img-row .col-4 {
+            width: 30%;
+        }
+        
     }
 
     /* until boostrap md */
@@ -413,6 +428,37 @@
             margin-top: 25px;
         }
 
+        /* -----------------------------------------news.html------------------------------------------- */
+        .row.Trends-header {
+            margin-top: 65px;
+        }
+
+        img.news-img {
+            margin-top: 115px;
+            margin-left: -35px;
+        }
+
+
+        /* ------------------------------------blog.html------------------------------------------------------- */
+
+        img.blog-img {
+            margin-top: 80px;
+        }
+
+        .col-lg-12.col-md-12.col-sm-12.text-center.main-content {
+            padding-left: 0;
+            margin-left: -16px;
+        }
+
+        .latest-news .latest-news-col .catogories-sidebar {
+            
+            
+            border: none;
+        }
+
+        .product-img-row .col-4 {
+            width: 15%;
+        }
     }
 
    
