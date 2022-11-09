@@ -991,6 +991,15 @@ p.make.fontadding {
     font-size: 16px;
 }
 
+.product-section .product-img .card-body img{
+    transition: 1s;
+}
+
+.product-section .product-img .card-body img:hover{
+   transform: scale(1.2);
+   z-index: 2;
+}
+
 /* 
 
 ---------------------------------------Design-Projects--------------------------------- */
