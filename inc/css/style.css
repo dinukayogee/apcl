@@ -865,7 +865,11 @@ button[aria-expanded="true"] svg {
     font-weight: bold;
 }
 
-/* --------------------------------------discluser end----------------------------------------------- */
+/* --------------------------------------discluser end----------------------------------------------*/
+.datacontent{
+    display: flex; 
+        flex-direction: column-reverse; 
+}
 
 /* ---------------------------------------service page modal start----------------------------------- */
 .service-categories .service .modal-title {
@@ -1231,6 +1235,21 @@ p.make.fontadding {
     color:#b3b0b0 ;
 }
 
+/* .latest-news{
+    display: flex; 
+    flex-direction: column-reverse; 
+}
+
+.latest-news-row{
+    display: flex; 
+    flex-direction: column-reverse; 
+}
+
+.primary-blog{
+    display: flex; 
+    flex-direction: column-reverse;
+} */
+
 
 /* --------------------------------------------News-blog.html--------------------------------------- */
 
@@ -1308,3 +1327,56 @@ img.blog-img {
     font-family: 'Open Sans', sans-serif;
 }
 
+
+/* --------------------------------------------Resources.html------------------------------------------------ */
+
+.resource-modal a{
+    text-decoration: none;
+}
+
+.modal-content .modal-body .row .col-9 p.respara:hover {
+   color: #1d1e1e;
+}
+
+p.respara {
+    margin-bottom: -2px;
+}
+p#respara-ref1 {
+    font-size: 10px;
+}
+
+p#respara-ref2 {
+    font-size: 10px;
+}
+
+p#respara-ref3 {
+    font-size: 10px;
+}
+
+p#respara-ref4 {
+    font-size: 10px;
+}
+
+p#respara-ref5 {
+    font-size: 10px;
+}
+
+p#respara-ref6 {
+    font-size: 10px;
+}
+
+.banner-img{
+   
+width: 100%;
+  height: 350px;
+  background-image: url('../img/banner1.jpg');
+  background-repeat: no-repeat;
+  background-size: fixed;
+  background-size: cover;
+  
+   
+}
+.banner-img img{
+    height: auto;
+    width: auto;
+}

@@ -230,12 +230,57 @@
     .row.mobspace {
         margin-top: -95px;
     }
+
+    /* --------------------------------Services.html--------------------------------------- */
+    .firstimg{
+        margin-left: -20px;
+
+    }
+    .secondimg{
+        margin-left: 50px;
+
+    }
+    .heading-body1 .image1 img {
+        max-width: 93%;
+        height: auto;
+        float: left;
+        margin-left: -32px;
+    }
+    img.\33 rdimg {
+        margin-left: -32px;
+    }
+    img.secondimg {
+        margin-top: 25px;
+        margin-bottom: 20px;
+    }
+    img.\33 rdimg {
+        margin-top: -64px;
+        margin-bottom: 25px;
+    }
+    img.firstimg {
+        margin-bottom: 25px;
+    }
+    
 /* 
     ------------------------------------news.html--------------------------------------- */
 
     img.news-img {
         margin-left: -10px;
         margin-top: 30px;
+    }
+    .latest-news{
+        display: flex; 
+        flex-direction: column-reverse; 
+    }
+    
+    .latest-news-row{
+        display: flex; 
+        flex-direction: column-reverse; 
+    }
+    
+    .primary-blog{
+        display: flex; 
+        flex-direction: column-reverse;
     }
 
     /* ----------------------------------------blogs---------------------------------------- */
@@ -276,8 +321,9 @@
         width: 19%;
     }
     
-   
-   
+
+   /* ------------------------------------ Rosource.html--------------------------------------------- */
+
 
 }
 
