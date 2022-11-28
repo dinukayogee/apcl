@@ -1,0 +1,1576 @@
+   <!-- design category Start -->
+                    <div class="design-categories">
+                        <section class="service-design">
+                            <div class="container-fluid">
+
+
+                                <!-- Protection Relay Testing-->
+                                <div class="row   ">
+
+
+                                    <div class="heading-body">
+                                        <div class="row ">
+                                            <div class="col-lg-6 col-md-6 col-sm-12 ">
+                                                <div class="image ">
+                                                    <img width="1024" height="1024"
+                                                        src="./inc/service-img/LIGHTNING_569x319.jpg" alt=""
+                                                        loading="lazy">
+                                                </div>
+                                            </div>
+
+                                            <div class="col-lg-6 col-md-6 col-sm-12 ">
+                                                <div class="design-text-content">
+                                                    <h3 class="mb-4 ">Protection Relay Testing​</h3>
+
+                                                    <p class="design-para">Lorem ipsum dolor sit, amet consectetur
+                                                        adipisicing elit. </p>
+
+
+                                                    <!-- Button trigger modal -->
+                                                    <button type="button" class="btn btn-primary" data-bs-toggle="modal"
+                                                        class="design-btn" data-bs-target="#modal1">
+                                                        More info...!
+                                                    </button>
+
+
+
+
+                                                    <!-- Modal -->
+                                                    <div class="modal fade" id="modal1" data-bs-backdrop="static"
+                                                        data-bs-keyboard="false" tabindex="-1"
+                                                        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                                                        <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                                                            <div class="modal-content">
+                                                                <div class="modal-header">
+                                                                    <h5 class="modal-title " id="staticBackdropLabel ">
+                                                                        Protection Relay Testing</h5>
+
+
+                                                                    <button type="button" class="btn-close"
+                                                                        data-bs-dismiss="modal"
+                                                                        aria-label="Close"></button>
+                                                                </div>
+                                                                <div class="modal-body">
+                                                                    <div class="row">
+                                                                        <div class="col-1"></div>
+                                                                        <div class="col-1">
+                                                                            <!-- <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                width="15" height="15" fill="#42C8C4"
+                                                                                class="bi bi-check-lg"
+                                                                                viewBox="0 0 16 16">
+                                                                                <path
+                                                                                    d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                            </svg> -->
+                                                                        </div>
+
+                                                                        <div class="col-9 testing-para">
+                                                                            <p >Relay characteristics are tested against specified tripping curves (ex: IEC 60255) with APCL professional test instrument “Megger Sverker 900”.</p>
+                                                                            <p >Common Relay Types : Current, Voltage, Frequency, Power</p>
+                                                                            <p><b>LV Relays :</b>  ELR, EFR, PFR etc</p>
+                                                                            <p><b>HV Relays :</b>  Overcurrent, Earth Fault,  Over/under frequency, Differential Protection, Distance Protection, Neutral Voltage Displacement (NVD), Vector shift, ROCOF</p>
+                                                                            <p>#Protection Relay Testing Lanka</p>
+                                                                        </div>
+                                                                        <div class="col-1"></div>
+                                                                    </div>
+
+                                                                   
+                                                                </div>
+                                                                <div class="modal-footer">
+                                                                    <button type="button" class="btn btn-info"
+                                                                        data-bs-dismiss="modal">Close</button>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+
+
+                                                </div>
+
+
+
+
+
+
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Protection Relay Testing -->
+
+
+
+
+                                <!-- Energy Meter Calibration -->
+                                <div class="row  ">
+
+                                    <div class="heading-body1">
+                                        <div class="row revers-row flex-sm-row">
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="design-text-content1">
+                                                    <h3 class="my-4">Energy Meter Calibration</h3>
+
+                                                    <p class="design-para">Lorem ipsum dolor sit, amet consectetur
+                                                        adipisicing elit. </p>
+
+                                                    <!-- Button trigger modal -->
+                                                    <button type="button" class="btn btn-primary" data-bs-toggle="modal"
+                                                        data-bs-target="#modal2">
+                                                        More info...!
+                                                    </button>
+
+                                                    <!-- Modal -->
+                                                    <div class="modal fade" id="modal2" data-bs-backdrop="static"
+                                                        data-bs-keyboard="false" tabindex="-1"
+                                                        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                                                        <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                                                            <div class="modal-content">
+                                                                <div class="modal-header">
+                                                                    <h5 class="modal-title " id="staticBackdropLabel ">
+                                                                        Energy Meter Calibration</h5>
+                                                                    <button type="button" class="btn-close"
+                                                                        data-bs-dismiss="modal"
+                                                                        aria-label="Close"></button>
+                                                                </div>
+                                                                <div class="modal-body">
+                                                                    <div class="row">
+                                                                        <div class="col-1"></div>
+                                                                        <div class="col-1">
+                                                                            <!-- <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                width="15" height="15" fill="#42C8C4"
+                                                                                class="bi bi-check-lg"
+                                                                                viewBox="0 0 16 16">
+                                                                                <path
+                                                                                    d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                            </svg> -->
+                                                                        </div>
+
+                                                                        <div class="col-9 testing-para">
+                                                                            <p>Calibration of Energy Meters (Electro-mechanical or Digital) will ensure correct performances and errors which account for reducing unnecessary financial losses and retrieving correct data for Energy Management Plans at facilities</p>
+                                                                        </div>
+                                                                        <div class="col-1"></div>
+                                                                    </div>
+
+                                                                   
+
+                                                                </div>
+                                                                <div class="modal-footer">
+                                                                    <button type="button" class="btn btn-info"
+                                                                        data-bs-dismiss="modal">Close</button>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+
+
+
+
+
+                                                </div>
+
+
+
+
+
+
+
+                                            </div>
+
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="image1 mt-4">
+                                                    <img width="1024" height="1024"
+                                                        src="./inc/service-img/TRANSMISSION_569x319.jpg" alt=""
+                                                        loading="lazy">
+                                                </div>
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Energy Meter Calibration-->
+
+
+
+
+                                <!-- Primary Injection Testing -->
+                                <div class="row mobspace ">
+                                    <div class="heading-body">
+                                        <div class="row  ">
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="image mt-4">
+                                                    <img width="1024" height="1024"
+                                                        src="./inc/service-img/EARTHING_569x319.jpg" alt=""
+                                                        loading="lazy">
+                                                </div>
+                                            </div>
+
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="design-text-content ">
+                                                    <h3 class="my-4">Primary Injection Testing </h3>
+
+                                                    <p class="design-para">Lorem ipsum dolor sit, amet consectetur
+                                                        adipisicing elit. </p>
+
+
+                                                    <!-- Button trigger modal -->
+                                                    <button type="button" class="btn btn-primary" data-bs-toggle="modal"
+                                                        data-bs-target="#modal3">
+                                                        More info...!
+                                                    </button>
+
+                                                    <!-- Modal -->
+                                                    <div class="modal fade" id="modal3" data-bs-backdrop="static"
+                                                        data-bs-keyboard="false" tabindex="-1"
+                                                        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                                                        <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                                                            <div class="modal-content">
+                                                                <div class="modal-header">
+                                                                    <h5 class="modal-title " id="staticBackdropLabel ">
+                                                                        Primary Injection Testing </h5>
+                                                                    <button type="button" class="btn-close"
+                                                                        data-bs-dismiss="modal"
+                                                                        aria-label="Close"></button>
+                                                                </div>
+                                                                <div class="modal-body">
+                                                                    <div class="row">
+                                                                        <div class="col-1"></div>
+                                                                        <div class="col-1">
+                                                                            <!-- <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                width="15" height="15" fill="#42C8C4"
+                                                                                class="bi bi-check-lg"
+                                                                                viewBox="0 0 16 16">
+                                                                                <path
+                                                                                    d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                            </svg> -->
+                                                                        </div>
+
+                                                                        <div class="col-9">
+                                                                            <p>Conducting Primary Injections testing of Circuit Breakers, Auto-Reclosers and all other over-current protective devices up to 3000 A. Ensures tripping performance, safeguarding your facility against catastrophic overcurrent origined failures.</p>
+                                                                        </div>
+                                                                        <div class="col-1"></div>
+                                                                    </div>
+
+                                                                    
+                                                                    
+                                                                    </div>
+                                                                </div>
+                                                                <div class="modal-footer">
+                                                                    <button type="button" class="btn btn-info"
+                                                                        data-bs-dismiss="modal">Close</button>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+
+
+                                                </div>
+                                                <!----Main content-->
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <!-- Primary Injection Testing end -->
+
+
+
+                                <!--  Insulation Resistance -->
+                                <div class="row ">
+
+                                    <div class="heading-body1">
+                                        <div class="row revers-row flex-sm-row ">
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="design-text-content1">
+                                                    <h3 class="my-4">Insulation Resistance</h3>
+
+                                                    <p class="design-para">Lorem ipsum dolor sit, amet consectetur
+                                                        adipisicing elit. </p>
+
+                                                    <!-- Button trigger modal -->
+                                                    <button type="button" class="btn btn-primary" data-bs-toggle="modal"
+                                                        data-bs-target="#modal4">
+                                                        More info...!
+                                                    </button>
+
+                                                    <!-- Modal -->
+                                                    <div class="modal fade" id="modal4" data-bs-backdrop="static"
+                                                        data-bs-keyboard="false" tabindex="-1"
+                                                        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                                                        <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                                                            <div class="modal-content">
+                                                                <div class="modal-header">
+                                                                    <h5 class="modal-title" id="staticBackdropLabel">
+                                                                        Insulation Resistance</h5>
+                                                                    <button type="button" class="btn-close"
+                                                                        data-bs-dismiss="modal"
+                                                                        aria-label="Close"></button>
+                                                                </div>
+                                                                <div class="modal-body">
+                                                                    <div class="row">
+                                                                        <div class="col-1"></div>
+                                                                        <div class="col-1">
+                                                                            <!-- <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                width="15" height="15" fill="#42C8C4"
+                                                                                class="bi bi-check-lg"
+                                                                                viewBox="0 0 16 16">
+                                                                                <path
+                                                                                    d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                            </svg> -->
+                                                                        </div>
+
+                                                                        <div class="col-9 testing-para">
+                                                                            <p>Insulation Resistance is measured in Low Voltage Installation (< 1 kV) and High Voltage Installations (> 1 kV) to assure the dedicated minimum insulation established prior to energizing.
+                                                                                Recommended test for periodic installation evaluation.
+                                                                                
+                                                                                </p>
+
+                                                                                <p>Applications : Motors, Generators, Cable, Switchgear, Transformer etc</p>
+                                                                        </div>
+                                                                        <div class="col-1"></div>
+                                                                    </div>
+
+                                                                    
+                                                                    
+
+                                                                </div>
+                                                                <div class="modal-footer">
+                                                                    <button type="button" class="btn btn-info"
+                                                                        data-bs-dismiss="modal">Close</button>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+
+
+
+
+
+                                                </div>
+
+
+
+
+
+
+
+                                            </div>
+
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="image1 mt-4">
+                                                    <img width="1024" height="1024"
+                                                        src="./inc/service-img/SUBSTATION_569x319.jpg" alt=""
+                                                        loading="lazy">
+                                                </div>
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--  Insulation Resistance end -->
+
+
+
+                                <!-- Earth Electrode Resistance start -->
+                                <div class="row mobspace">
+                                    <div class="heading-body">
+                                        <div class="row ">
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="image my-4">
+                                                    <img width="1024" height="1024"
+                                                        src="./inc/service-img/POWER_569x319.jpg" alt="" loading="lazy">
+                                                </div>
+                                            </div>
+
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="design-text-content mobmargin ">
+                                                    <h3 class="my-4">Earth Electrode Resistance </h3>
+
+                                                    <p class="design-para">Lorem ipsum dolor sit, amet consectetur
+                                                        adipisicing elit. </p>
+
+
+                                                    <!-- Button trigger modal -->
+                                                    <button type="button" class="btn btn-primary" data-bs-toggle="modal"
+                                                        data-bs-target="#modal5">
+                                                        More info...!
+                                                    </button>
+
+                                                    <!-- Modal -->
+                                                    <div class="modal fade" id="modal5" data-bs-backdrop="static"
+                                                        data-bs-keyboard="false" tabindex="-1"
+                                                        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                                                        <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                                                            <div class="modal-content">
+                                                                <div class="modal-header">
+                                                                    <h5 class="modal-title " id="staticBackdropLabel">
+                                                                        Earth Electrode Resistance </h5>
+                                                                    <button type="button" class="btn-close"
+                                                                        data-bs-dismiss="modal"
+                                                                        aria-label="Close"></button>
+                                                                </div>
+                                                                <div class="modal-body">
+                                                                    <div class="row">
+                                                                        <div class="col-1"></div>
+                                                                        <div class="col-1">
+                                                                            <!-- <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                width="15" height="15" fill="#42C8C4"
+                                                                                class="bi bi-check-lg"
+                                                                                viewBox="0 0 16 16">
+                                                                                <path
+                                                                                    d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                            </svg> -->
+                                                                        </div>
+
+                                                                        <div class="col-9 testing-para">
+                                                                            <p>Earthing systems are checked for individual & mesh earth-electrode resistance as per IEEE 81..</p>
+                                                                        </div>
+                                                                        <div class="col-1"></div>
+                                                                    </div>
+
+
+
+                                                                  
+                                                                </div>
+                                                                <div class="modal-footer">
+                                                                    <button type="button" class="btn btn-info"
+                                                                        data-bs-dismiss="modal">Close</button>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+
+
+                                                </div>
+                                                <!----Main content-->
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <!--Earth Electrode Resistanceend -->
+
+
+
+                                <!--   Soild Resistivity start -->
+                                <div class="row ">
+
+                                    <div class="heading-body1">
+                                        <div class="row revers-row flex-sm-row ">
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="design-text-content1 w">
+                                                    <h3 class="my-4"> Soild Resistivity</h3>
+
+                                                    <p class="design-para">Lorem ipsum dolor sit, amet consectetur
+                                                        adipisicing elit. </p>
+
+                                                    <!-- Button trigger modal -->
+                                                    <button type="button" class="btn btn-primary" data-bs-toggle="modal"
+                                                        data-bs-target="#modal6">
+                                                        More info...!
+                                                    </button>
+
+                                                    <!-- Modal -->
+                                                    <div class="modal fade" id="modal6" data-bs-backdrop="static"
+                                                        data-bs-keyboard="false" tabindex="-1"
+                                                        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                                                        <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                                                            <div class="modal-content">
+                                                                <div class="modal-header">
+                                                                    <h5 class="modal-title" id="staticBackdropLabel">
+                                                                        Soild Resistivity</h5>
+                                                                    <button type="button" class="btn-close"
+                                                                        data-bs-dismiss="modal"
+                                                                        aria-label="Close"></button>
+                                                                </div>
+                                                                <div class="modal-body">
+                                                                    <div class="row">
+                                                                        <div class="col-1"></div>
+                                                                        <div class="col-1">
+                                                                            <!-- <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                width="15" height="15" fill="#42C8C4"
+                                                                                class="bi bi-check-lg"
+                                                                                viewBox="0 0 16 16">
+                                                                                <path
+                                                                                    d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                            </svg> -->
+                                                                        </div>
+
+                                                                        <div class="col-9 testing-para">
+                                                                            <p>We test Electrical Resistivity of Soil using 4 Terminal Earth Tester.
+                                                                            </p>
+                                                                            <p>The measurements are crucial for designing Earthing Systems for Generating Stations, Wind Power Plants, LV/MV Installations, Substations & Lightning Protection Systems where the designs shall meet maximum Earth Electrode Resistances or Touch Voltage limits as per IEEE.</p>
+                                                                            <p>We strategically measure Soil Resistivity values orienting design goals and provide soil model reports for aforementioned requirements.</p>
+                                                                        </div>
+                                                                        <div class="col-1"></div>
+                                                                    </div>
+
+                                                                </div>
+                                                                <div class="modal-footer">
+                                                                    <button type="button" class="btn btn-info"
+                                                                        data-bs-dismiss="modal">Close</button>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+
+
+
+
+
+                                                </div>
+
+
+
+
+
+
+
+                                            </div>
+
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="image1 mt-4">
+                                                    <img width="1024" height="1024"
+                                                        src="./inc/service-img/CONSULTANCY_569x319.jpg" alt=""
+                                                        loading="lazy">
+                                                </div>
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--   Soild Resistivity end -->
+
+
+                                <!--   Power Quality & Harmonic Analysis start -->
+                                <div class="row mobspace">
+                                    <div class="heading-body">
+                                        <div class="row ">
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="image my-4">
+                                                    <img width="1024" height="1024"
+                                                        src="./inc/service-img/SYSTEM_569x319.jpg" alt=""
+                                                        loading="lazy">
+                                                </div>
+                                            </div>
+
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="design-text-content">
+                                                    <h3 class="my-4"> Power Quality & Harmonic Analysis</h3>
+
+                                                    <p class="design-para">Lorem ipsum dolor sit, amet consectetur
+                                                        adipisicing elit. </p>
+
+
+                                                    <!-- Button trigger modal -->
+                                                    <button type="button" class="btn btn-primary" data-bs-toggle="modal"
+                                                        data-bs-target="#modal7">
+                                                        More info...!
+                                                    </button>
+
+                                                    <!-- Modal -->
+                                                    <div class="modal fade" id="modal7" data-bs-backdrop="static"
+                                                        data-bs-keyboard="false" tabindex="-1"
+                                                        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                                                        <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                                                            <div class="modal-content">
+                                                                <div class="modal-header">
+                                                                    <h5 class="modal-title" id="staticBackdropLabel">
+                                                                        Power Quality & Harmonic Analysis</h5>
+                                                                    <button type="button" class="btn-close"
+                                                                        data-bs-dismiss="modal"
+                                                                        aria-label="Close"></button>
+                                                                </div>
+                                                                <div class="modal-body">
+                                                                    <div class="row">
+                                                                        <div class="col-1"></div>
+                                                                        <div class="col-1">
+                                                                            <!-- <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                width="15" height="15" fill="#42C8C4"
+                                                                                class="bi bi-check-lg"
+                                                                                viewBox="0 0 16 16">
+                                                                                <path
+                                                                                    d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                            </svg> -->
+                                                                        </div>
+
+                                                                        <div class="col-9 testing-para">
+                                                                            <p>We conduct comprehensive Electrical Data Logging, Power Quality Analysis & Harmonic Analysis for industrial installations and Solar PV installations.</p>
+                                                                            <p><b>Logging parameters:</b></p>
+                                                                            <p>Voltage, Current, Frequency, Demand (kVA), Energy, Harmonics (up to 50th harmonic, THD, TDD) , Events (Swell. Dips, Interruptions, Transient Overvoltage Impulse, Inrush Currents)</p>
+                                                                        </div>
+                                                                        <div class="col-1"></div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="modal-footer">
+                                                                    <button type="button" class="btn btn-info"
+                                                                        data-bs-dismiss="modal">Close</button>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+
+
+                                                </div>
+                                                <!----Main content-->
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <!--  System Protection Designs end -->
+
+                                </div>
+                                <!-- Power Quality & Harmonic Analysis end -->
+
+
+
+
+                                <!--   Thermography Surveys start -->
+                                <div class="row">
+
+                                    <div class="heading-body1">
+                                        <div class="row revers-row flex-sm-row">
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="design-text-content1">
+                                                    <h3 class="my-4"> Thermography Surveys</h3>
+
+                                                    <p class="design-para">Lorem ipsum dolor sit, amet consectetur
+                                                        adipisicing elit. </p>
+
+                                                    <!-- Button trigger modal -->
+                                                    <button type="button" class="btn btn-primary" data-bs-toggle="modal"
+                                                        class="design-btn" data-bs-target="#modal8">
+                                                        More info...!
+                                                    </button>
+
+                                                    <!-- Modal -->
+                                                    <div class="modal fade" id="modal8" data-bs-backdrop="static"
+                                                        data-bs-keyboard="false" tabindex="-1"
+                                                        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                                                        <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                                                            <div class="modal-content">
+                                                                <div class="modal-header">
+                                                                    <h5 class="modal-title " id="staticBackdropLabel">
+                                                                        Thermography Surveys</h5>
+                                                                    <button type="button" class="btn-close"
+                                                                        data-bs-dismiss="modal"
+                                                                        aria-label="Close"></button>
+                                                                </div>
+                                                                <div class="modal-body">
+                                                                    <div class="row">
+                                                                        <div class="col-1"></div>
+                                                                        <div class="col-1">
+                                                                            <!-- <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                width="15" height="15" fill="#42C8C4"
+                                                                                class="bi bi-check-lg"
+                                                                                viewBox="0 0 16 16">
+                                                                                <path
+                                                                                    d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                            </svg> -->
+                                                                        </div>
+
+                                                                        <div class="col-9 testing-para">
+                                                                            <p>Infrared thermography surveys conducted by APCL’s consultants & engineers will inspect Electrical & Mechanical systems for anomalies.
+                                                                            </p>
+                                                                            <p>The detailed systematic report with recommendations will aid you to understand the hidden issues and corrective measures to be taken.</p>
+                                                                            <p>We introduced thermography for Electrical Consultancy in 2010 helping Sri Lankan & overseas industries to run safely.</p>
+                                                                            <p>Our experience in Electrical Design & Testing have contributed remarkably to conduct Thermal Imaging / Thermography more technically. </p>
+                                                                            <p>#Thermography Lanka</p>
+                                                                        </div>
+                                                                        <div class="col-1"></div>
+                                                                    </div>
+
+                                                                </div>
+                                                                <div class="modal-footer">
+                                                                    <button type="button" class="btn btn-info"
+                                                                        data-bs-dismiss="modal">Close</button>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+
+
+
+
+
+                                                </div>
+
+
+
+
+
+
+
+                                            </div>
+
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="image1 mt-4">
+                                                    <img width="1024" height="1024"
+                                                        src="./inc/service-img/COMMERCIAL-resized.jpg" alt=""
+                                                        loading="lazy">
+                                                </div>
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Thermography Surveys end -->
+
+
+
+                                <!-- Earth Fault Loop Impedance -->
+                                <div class="row mobspace">
+                                    <div class="heading-body">
+                                        <div class="row ">
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="image m-4">
+                                                    <img width="1024" height="1024"
+                                                        src="./inc/service-img/INDUSTRIAL_569x319.jpg" alt=""
+                                                        loading="lazy">
+                                                </div>
+                                            </div>
+
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="design-text-content">
+                                                    <h3 class="my-4"> Earth Fault Loop Impedance</h3>
+
+                                                    <p class="design-para">Lorem ipsum dolor sit, amet consectetur
+                                                        adipisicing elit. </p>
+
+
+                                                    <!-- Button trigger modal -->
+                                                    <button type="button" class="btn btn-primary" data-bs-toggle="modal"
+                                                        class="design-btn" data-bs-target="#modal9">
+                                                        More info...!
+                                                    </button>
+
+                                                    <!-- Modal -->
+                                                    <div class="modal fade" id="modal9" data-bs-backdrop="static"
+                                                        data-bs-keyboard="false" tabindex="-1"
+                                                        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                                                        <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                                                            <div class="modal-content">
+                                                                <div class="modal-header">
+                                                                    <h5 class="modal-title " id="staticBackdropLabel">
+                                                                        Earth Fault Loop Impedance</h5>
+                                                                    <button type="button" class="btn-close"
+                                                                        data-bs-dismiss="modal"
+                                                                        aria-label="Close"></button>
+                                                                </div>
+                                                                <div class="modal-body">
+                                                                    <div class="row">
+                                                                        <div class="col-1"></div>
+                                                                        <div class="col-1">
+                                                                            <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                width="15" height="15" fill="#42C8C4"
+                                                                                class="bi bi-check-lg"
+                                                                                viewBox="0 0 16 16">
+                                                                                <path
+                                                                                    d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                            </svg>
+                                                                        </div>
+
+                                                                        <div class="col-9 testing-para">
+                                                                            <p>Residual Current Devices (RCD) which are the elemental component of fault protection in Low Voltage Systems shall be checked for their specified operation prior to commercial operation and periodic auditing. </p>
+                                                                            <p>We test RCCBs & RCBOs with commercial test instrument and provide recommendations based on tripping time characteristics and statistical nature.</p>
+                                                                        </div>
+                                                                        <div class="col-1"></div>
+                                                                    </div>
+
+
+
+
+
+                                                                </div>
+                                                                <div class="modal-footer">
+                                                                    <button type="button" class="btn btn-info"
+                                                                        data-bs-dismiss="modal">Close</button>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+
+
+                                                </div>
+                                                <!----Main content-->
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <!--  System Protection Designs end -->
+
+                                </div>
+                                <!--  Earth Fault Loop Impedance end -->
+
+
+                                    <!--  RCD (RCCB, RCBO) start -->
+                                    <div class="row">
+
+                                        <div class="heading-body1">
+                                            <div class="row revers-row flex-sm-row">
+                                                <div class="col-lg-6 col-md-6 col-sm-12">
+                                                    <div class="design-text-content1">
+                                                        <h3 class="my-4">RCD (RCCB, RCBO) </h3>
+    
+                                                        <p class="design-para">Lorem ipsum dolor sit, amet consectetur
+                                                            adipisicing elit. </p>
+    
+                                                        <!-- Button trigger modal -->
+                                                        <button type="button" class="btn btn-primary" data-bs-toggle="modal"
+                                                            class="design-btn" data-bs-target="#modal8">
+                                                            More info...!
+                                                        </button>
+    
+                                                        <!-- Modal -->
+                                                        <div class="modal fade" id="modal8" data-bs-backdrop="static"
+                                                            data-bs-keyboard="false" tabindex="-1"
+                                                            aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                                                            <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                                                                <div class="modal-content">
+                                                                    <div class="modal-header">
+                                                                        <h5 class="modal-title " id="staticBackdropLabel">
+                                                                            RCD (RCCB, RCBO) </h5>
+                                                                        <button type="button" class="btn-close"
+                                                                            data-bs-dismiss="modal"
+                                                                            aria-label="Close"></button>
+                                                                    </div>
+                                                                    <div class="modal-body">
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9 testing-para">
+                                                                                <p>Residual Current Devices (RCD) which are the elemental component of fault protection in Low Voltage Systems shall be checked for their specified operation prior to commercial operation and periodic auditing. 
+
+                                                                                </p>
+                                                                                <p>We test RCCBs & RCBOs with commercial test instrument and provide recommendations based on tripping time characteristics and statistical nature.</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Complete electrical design for Zam Gems
+                                                                                    Building Colombo 04.</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Complete electrical system design for
+                                                                                    Tower of Platinum. (Low Voltage and
+                                                                                    Medium Voltage)</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Consultancy service for the First Solar
+                                                                                    Kiln in Sapugaskanda for Orient Lanka
+                                                                                    Trading.</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Design of generators for World Trade
+                                                                                    center (WTC) Sri Lanka.</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Design and installation of power
+                                                                                    distribution system at Onril (Pvt) Ltd-
+                                                                                    Katana.</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Electrical System Design for Metro
+                                                                                    Politain building – Dehiwala.
+                                                                                </p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Electrical System Design for Havelock
+                                                                                    City Phase Two</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Electrical System Design for Auditor
+                                                                                    General’s Building – Baththaramulla</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Electrical System Design for Proposed
+                                                                                    Food court at Liberty plaza</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Conceptual design for the new project of
+                                                                                    Bambalapitiya Flats (2800 Luxury houses
+                                                                                    and 400 middle class houses) (Low
+                                                                                    Voltage and Medium Voltage)</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Conceptual Electrical design for Keels
+                                                                                    City for Access Energy solutions (Pvt)
+                                                                                    Ltd.</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+                                                                    </div>
+                                                                    <div class="modal-footer">
+                                                                        <button type="button" class="btn btn-info"
+                                                                            data-bs-dismiss="modal">Close</button>
+    
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+    
+    
+    
+    
+    
+    
+                                                    </div>
+    
+    
+    
+    
+    
+    
+    
+                                                </div>
+    
+                                                <div class="col-lg-6 col-md-6 col-sm-12">
+                                                    <div class="image1 mt-4">
+                                                        <img width="1024" height="1024"
+                                                            src="./inc/service-img/COMMERCIAL-resized.jpg" alt=""
+                                                            loading="lazy">
+                                                    </div>
+    
+    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- RCD (RCCB, RCBO) end -->
+
+
+                                    
+                                <!--  Hi-Pot (Withstand Voltage) start -->
+                                <div class="row mobspace">
+                                    <div class="heading-body">
+                                        <div class="row ">
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="image m-4">
+                                                    <img width="1024" height="1024"
+                                                        src="./inc/service-img/INDUSTRIAL_569x319.jpg" alt=""
+                                                        loading="lazy">
+                                                </div>
+                                            </div>
+
+                                            <div class="col-lg-6 col-md-6 col-sm-12">
+                                                <div class="design-text-content">
+                                                    <h3 class="my-4"> Hi-Pot (Withstand Voltage)</h3>
+
+                                                    <p class="design-para">Lorem ipsum dolor sit, amet consectetur
+                                                        adipisicing elit. </p>
+
+
+                                                    <!-- Button trigger modal -->
+                                                    <button type="button" class="btn btn-primary" data-bs-toggle="modal"
+                                                        class="design-btn" data-bs-target="#modal9">
+                                                        More info...!
+                                                    </button>
+
+                                                    <!-- Modal -->
+                                                    <div class="modal fade" id="modal9" data-bs-backdrop="static"
+                                                        data-bs-keyboard="false" tabindex="-1"
+                                                        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                                                        <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                                                            <div class="modal-content">
+                                                                <div class="modal-header">
+                                                                    <h5 class="modal-title " id="staticBackdropLabel">
+                                                                        Hi-Pot (Withstand Voltage)</h5>
+                                                                    <button type="button" class="btn-close"
+                                                                        data-bs-dismiss="modal"
+                                                                        aria-label="Close"></button>
+                                                                </div>
+                                                                <div class="modal-body">
+                                                                    <div class="row">
+                                                                        <div class="col-1"></div>
+                                                                        <div class="col-1">
+                                                                            <!-- <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                width="15" height="15" fill="#42C8C4"
+                                                                                class="bi bi-check-lg"
+                                                                                viewBox="0 0 16 16">
+                                                                                <path
+                                                                                    d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                            </svg> -->
+                                                                        </div>
+
+                                                                        <div class="col-9">
+                                                                            <p>High Voltage Withstand Test (or Pressure Testing) is conducted for both Low Voltage and High Voltage Installations.</p>
+                                                                            <p>We carry out tests up to 100 kV as per IEC test methodologies for different specimen types (Cables, Transformers, Bus bars, Switchgear etc).</p>
+                                                                            <p>#High Voltage Testing Lanka #Hipot Lanka</p>
+                                                                        </div>
+                                                                        <div class="col-1"></div>
+                                                                    </div>
+
+
+
+
+
+                                                                </div>
+                                                                <div class="modal-footer">
+                                                                    <button type="button" class="btn btn-info"
+                                                                        data-bs-dismiss="modal">Close</button>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+
+
+                                                </div>
+                                                <!----Main content-->
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                    <!--  System Protection Designs end -->
+
+
+                                </div>
+                                <!--  Hi-Pot (Withstand Voltage) end -->
+
+
+                                
+                                    <!--   Portable Appliance Testing (PAT) start -->
+                                    <div class="row ">
+
+                                        <div class="heading-body1">
+                                            <div class="row revers-row flex-sm-row">
+                                                <div class="col-lg-6 col-md-6 col-sm-12">
+                                                    <div class="design-text-content1">
+                                                        <h3 class="my-4"> Portable Appliance Testing (PAT) </h3>
+    
+                                                        <p class="design-para">Lorem ipsum dolor sit, amet consectetur
+                                                            adipisicing elit. </p>
+    
+                                                        <!-- Button trigger modal -->
+                                                        <button type="button" class="btn btn-primary" data-bs-toggle="modal"
+                                                            class="design-btn" data-bs-target="#modal8">
+                                                            More info...!
+                                                        </button>
+    
+                                                        <!-- Modal -->
+                                                        <div class="modal fade" id="modal8" data-bs-backdrop="static"
+                                                            data-bs-keyboard="false" tabindex="-1"
+                                                            aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                                                            <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                                                                <div class="modal-content">
+                                                                    <div class="modal-header">
+                                                                        <h5 class="modal-title " id="staticBackdropLabel">
+                                                                            Portable Appliance Testing (PAT) </h5>
+                                                                        <button type="button" class="btn-close"
+                                                                            data-bs-dismiss="modal"
+                                                                            aria-label="Close"></button>
+                                                                    </div>
+                                                                    <div class="modal-body">
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9 testing-para">
+                                                                                <p>Ensuring safety of Electrical Appliances for users, we test Class I, Class II Appliances & Extension leads (cords) using professional PAT tester.
+                                                                                </p>
+                                                                                <p>Upon testing, we demarcate their safety with a printed label.</p>
+                                                                                <p>Reports for bulk amount of appliances can be arranged.</p>
+                                                                                <p>#PAT test lanka</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Complete electrical design for Zam Gems
+                                                                                    Building Colombo 04.</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Complete electrical system design for
+                                                                                    Tower of Platinum. (Low Voltage and
+                                                                                    Medium Voltage)</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Consultancy service for the First Solar
+                                                                                    Kiln in Sapugaskanda for Orient Lanka
+                                                                                    Trading.</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Design of generators for World Trade
+                                                                                    center (WTC) Sri Lanka.</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Design and installation of power
+                                                                                    distribution system at Onril (Pvt) Ltd-
+                                                                                    Katana.</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Electrical System Design for Metro
+                                                                                    Politain building – Dehiwala.
+                                                                                </p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Electrical System Design for Havelock
+                                                                                    City Phase Two</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Electrical System Design for Auditor
+                                                                                    General’s Building – Baththaramulla</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Electrical System Design for Proposed
+                                                                                    Food court at Liberty plaza</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Conceptual design for the new project of
+                                                                                    Bambalapitiya Flats (2800 Luxury houses
+                                                                                    and 400 middle class houses) (Low
+                                                                                    Voltage and Medium Voltage)</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+                                                                        <div class="row">
+                                                                            <div class="col-1"></div>
+                                                                            <div class="col-1">
+                                                                                <svg xmlns="http://www.w3.org/2000/svg"
+                                                                                    width="15" height="15" fill="#42C8C4"
+                                                                                    class="bi bi-check-lg"
+                                                                                    viewBox="0 0 16 16">
+                                                                                    <path
+                                                                                        d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425a.247.247 0 0 1 .02-.022Z" />
+                                                                                </svg>
+                                                                            </div>
+    
+                                                                            <div class="col-9">
+                                                                                <p>Conceptual Electrical design for Keels
+                                                                                    City for Access Energy solutions (Pvt)
+                                                                                    Ltd.</p>
+                                                                            </div>
+                                                                            <div class="col-1"></div>
+                                                                        </div>
+    
+                                                                    </div>
+                                                                    <div class="modal-footer">
+                                                                        <button type="button" class="btn btn-info"
+                                                                            data-bs-dismiss="modal">Close</button>
+    
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+    
+    
+    
+    
+    
+    
+                                                    </div>
+    
+    
+    
+    
+    
+    
+    
+                                                </div>
+    
+                                                <div class="col-lg-6 col-md-6 col-sm-12">
+                                                    <div class="image1 mt-4">
+                                                        <img width="1024" height="1024"
+                                                            src="./inc/service-img/COMMERCIAL-resized.jpg" alt=""
+                                                            loading="lazy">
+                                                    </div>
+    
+    
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--  Portable Appliance Testing (PAT) end -->
+
+
+                                
+
+
+
+
+
+
+                            </div>
+                    </div>

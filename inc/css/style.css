@@ -66,8 +66,25 @@ a.header-mail {
 
 .navbar {
     width: 100%;
+    text-transform: uppercase;
+    background-color: darkgray;
+    
+}
+.navbar-nav .nav-link{
+    color: white;
 }
 
+li.nav-item {
+    margin-right: 20px;
+    margin-left: 15px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 15px;
+   
+}
+ul.navbar-nav.ms-auto {
+    margin-right: 10px;
+}
 /* Header Styles End */
 
 /* home section styles start*/
@@ -96,6 +113,9 @@ a.header-mail {
     padding: 20px;
     margin-left: auto;
 
+}
+.electrical{
+    color: #0d6efd;
 }
 
 /* Card section */
@@ -196,13 +216,18 @@ a.header-mail {
 
 .wc-list ul li {
     list-style-image: url(../img/list-icon.png) !important;
-    line-height: 2;
-    transition: all 0.5s;
+    /* line-height: 2; */
+    /* transition: all 0.5s; */
+    margin-bottom: 20px;
 }
 
+.wc-list p{
+    padding-left: 2rem;
+}
+/* 
 .wc-list ul li:hover {
     font-size: 17px;
-}
+} */
 
 .wcback-img {
     overflow: hidden;
@@ -213,12 +238,43 @@ a.header-mail {
     height: 500px;
     background-position: center;
     background-repeat: no-repeat;
-    transition: all 5s;
+    transition: all 12s;
 }
 
 .wc-img-section:hover {
     transform: scale(1.2);
 }
+
+#why-choose .wc-list{
+    line-height: 2rem;
+}
+
+.experence-section{
+    display: flex;
+    text-transform: uppercase;
+    font-weight: 600;
+
+}
+
+.experence-section img{
+  
+width: 50px;
+margin-top: -8px;
+}
+.experence-img img{
+    width: 100%;
+}
+svg.bi.bi-dash-lg {
+    margin-top: 8px;
+}
+.electrical{
+    font-size: 60px;
+}
+.experence-section-para p{
+    line-height: 2rem;
+}
+
+
 
 /* our-clients section */
 
@@ -406,6 +462,10 @@ div#our-clients {
 .absec-1-content .img-sec .img-1 {
     position: absolute;
     z-index: -1;
+
+}
+img.img-fluid.img-1 {
+    filter: grayscale(80%);
 }
 
 .absec-1-content .img-sec .img-2 {
@@ -431,6 +491,10 @@ div#our-clients {
 
 .absec-2-content {
     line-height: 3;
+}
+
+.tr-2 .img-td{
+    width: 50%;
 }
 
 /* vision mission section */
@@ -1064,7 +1128,7 @@ p.make.fontadding {
 }
 
 #ourteam .team-qulification {
-    font-size: 14px;
+    font-size: 12px;
 }
 
 
@@ -1073,8 +1137,8 @@ p.make.fontadding {
 
 #NewsPage {
     /* font-family: 'Questrial', sans-serif; */
-    /* font-family: 'Raleway', sans-serif; */
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    /* font-family: 'Roboto', sans-serif; */
 }
 
 
@@ -1096,7 +1160,10 @@ p.make.fontadding {
 .latest-news .catogories-sidebar .aboutUs-para {
     color: #777777;
     line-height: 2rem;
-    font-family: 'Open Sans', sans-serif;
+    /* font-family: 'Open Sans', sans-serif; */
+     /* font-family: 'Questrial', sans-serif; */
+     font-family: 'Raleway', sans-serif;
+     /* font-family: 'Roboto', sans-serif; */
 }
 
 .row.aboutUs-header {
@@ -1148,8 +1215,9 @@ p.make.fontadding {
 
     float: right;
 }
-.removebullets li svg :hover{
 
+
+.category-list .removebullets li a svg:hover{
     color: #9dc6ee;
 }
 
@@ -1369,7 +1437,7 @@ p#respara-ref6 {
    
 width: 100%;
   height: 350px;
-  background-image: url('../img/banner1.jpg');
+  /* background-image: url('../img/banner1.jpg'); */
   background-repeat: no-repeat;
   background-size: fixed;
   background-size: cover;
@@ -1379,4 +1447,58 @@ width: 100%;
 .banner-img img{
     height: auto;
     width: auto;
+}
+
+/* --------------------------------------contactus.html------------------------------------------------------------ */
+.ash-header {
+    background-color: #f9f9f9f9;
+    color: #777777;
+}
+.ash-header .ash-container h2{
+ font-family: 'Open Sans', sans-serif; 
+  
+}
+
+.qulity-para{
+    color: #777777;
+    line-height: 2rem;
+}
+
+/* -----------------------------------------------Trainning.html------------------------------------------------------ */
+.contact-trainning-para a{
+    text-decoration: none;
+}
+.qulity-list ul li{
+   color: #777777;
+   margin-top: 15px;
+}
+.qulity-img img{
+    margin-top: 1em;
+    width: 100%;
+}
+
+/* --------------------------------------------contact.html------------------------------------------- */
+.contactus-card{
+    padding: 20px;
+    background-color: #f9f9f9f9;
+    border-radius: 15px;
+    font-family: 'Roboto', sans-serif;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    transition: all .8s;
+}
+.contactus-card:hover {
+    transform: scale(1.1);
+}
+
+/* ----------------------------------------------testing & commising.html---------------------------------- */
+.heading-body .design-text-content .modal-body .testing-para p{
+    text-align: left;
+}
+
+.testig-category {
+    width: 100%;
+}
+
+.testig-category .row .testing-col img{
+    width: 85%;
 }
